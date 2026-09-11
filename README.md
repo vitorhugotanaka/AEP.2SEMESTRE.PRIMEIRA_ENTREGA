@@ -12,3 +12,6 @@ Curso: Engenharia de Software / ADS (UniCesumar)
 Aplicação em linguagem C voltada ao planejamento, registro e acompanhamento 
 de ações coletivas do Programa Saúde na Escola (PSE), focando em alimentação 
 saudável e atividade física.
+
+## Documentação da 1ª Entrega
+* O relatório escrito completo com contextualização, requisitos, fluxogramas e pseudocódigo está disponível no arquivo [`AEP_PRIMEIRA-ENTREGA_2SEMESTRE.pdf`](./AEP_PRIMEIRA-ENTREGA_2SEMESTRE.pdf).
