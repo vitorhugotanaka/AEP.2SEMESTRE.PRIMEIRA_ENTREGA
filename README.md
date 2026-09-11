@@ -14,4 +14,4 @@ de ações coletivas do Programa Saúde na Escola (PSE), focando em alimentaçã
 saudável e atividade física.
 
 ## Documentação da 1ª Entrega
-* O relatório escrito completo com contextualização, requisitos, fluxogramas e pseudocódigo está disponível no arquivo [`docs/AEP_PRIMEIRA-ENTREGA_2SEMESTRE.pdf`](./AEP_PRIMEIRA-ENTREGA_2SEMESTRE.pdf).
+* O relatório escrito completo com contextualização, requisitos, fluxogramas e pseudocódigo está disponível no arquivo.
